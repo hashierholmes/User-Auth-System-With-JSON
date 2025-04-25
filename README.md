@@ -1,15 +1,21 @@
 # World // Zero - Auto Farm
 
-This Auto Farm Script includes the following features:
+This Challenge Tower Script includes the following features:
 
-### Auto Mobs (F1)
-Automatically teleports to behind the mobs within a 5 studs.
+### Auto Mobs
+Automatically teleports to behind the mobs within a 25 studs.
 
-### Auto Click (F2)
-Automatically activates passive attacks.
+### Auto Attack
+Automatically activates passive attacks, R, and F skills. 
 
-### Auto E, R, F (F3, F4, F5)
-Automatically activates skills (E, R, and F).
+### Auto Collect Drops
+Automatically drops from mobs including golds and battlepass points.
+
+### Auto Next Floor
+Automatically teleport to next floor.
+
+### Auto Boss Arena
+Automatically touches the boss arena white barrier.
 
 ## NOTE:
-It automatically stop activates the Auto Click, Auto E, R and F when the mobs are cleared.
+It automatically stop activates the Auto Attack when the mobs are cleared and automatically collect drops and teleport to next floor or touches boss arena white barrier if toggled.
