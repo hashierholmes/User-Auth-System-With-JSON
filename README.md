@@ -1,5 +1,5 @@
 # World // Zero - Auto Farm
-```txt
+```
 This Auto Farm Script includes the following features:
 ```
 
