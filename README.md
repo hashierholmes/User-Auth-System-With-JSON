@@ -10,3 +10,6 @@ Automatically activates passive attacks.
 
 #### Auto E, R, F (F3, F4, F5)
 Automatically activates skills (E, R, and F).
+
+## NOTE:
+It automatically stop activates the Auto Click, Auto Skills when the mobs are cleared.
