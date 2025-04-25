@@ -9,6 +9,4 @@ Automatically teleports to mobs within a 5-stud radius.
 Automatically activates passive attacks.
 
 #### Auto E, R, F (F3, F4, F5)
-```
 Automatically activates skills (E, R, and F).
-```
