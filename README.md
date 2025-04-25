@@ -1,4 +1,4 @@
-# World // Zero - Auto Farm
+# World // Zero - Celes & Inf Tower
 
 This Challenge Tower Script includes the following features:
 
