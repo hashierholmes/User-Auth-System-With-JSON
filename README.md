@@ -1,19 +1,16 @@
 # World // Zero - Auto Farm
-```
+
 This Auto Farm Script includes the following features:
-```
 
-#### Toggle using click or F1, F2, F3, F4, and F5
-
-#### Auto Mobs
+#### Auto Mobs (F1)
 ```txt
 Automatically teleports to mobs within a 5-stud radius.
 ```
-#### Auto Click
+#### Auto Click (F2)
 ```txt
 Automatically activates passive attacks.
 ```
-#### Auto E, R, F
+#### Auto E, R, F (F3, F4, F5)
 ```txt
 Automatically activates skills (E, R, and F).
 ```
